@@ -106,7 +106,7 @@ SIGMA adalah aplikasi web yang dikembangkan untuk membantu instansi **PT Pertami
 
 ## Kontributor
 
-- **Rakha Pratama Putra** - [LinkedIn]([https://linkedin.com/in/rakha-pratama-putra) | [GitHub](https://github.com/rakhalord18)
+- **Rakha Pratama Putra** - [LinkedIn](https://linkedin.com/in/rakha-pratama-putra) | [GitHub](https://github.com/rakhalord18)
 
 ## Catatan
 
