@@ -102,7 +102,7 @@ SIGMA adalah aplikasi web yang dikembangkan untuk membantu instansi **PT Pertami
 ## Demo
 
 - **Live Demo:** *(Segera hadir - akan diupdate setelah hosting)*
-- **Source Code:** [GitHub Repository](https://github.com/username-kamu/SIGMA)
+- **Source Code:** [GitHub Repository](https://github.com/Rakhalord18/SIGMA)
 
 ## Kontributor
 
